@@ -1,0 +1,433 @@
+{
+  "orders": [
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "seller_id": "00a5fb4d-79f4-429a-9a32-ebe006a4d698",
+      "items": [
+        {
+          "product_id": "8bbeb3f3-6ac4-4fc4-abbe-8d620a8b834a",
+          "quantity": 1,
+          "price": 10000.0
+        }
+      ],
+      "total_amount": 10000.0,
+      "payment_method": "offline",
+      "payment_status": "pending",
+      "status": "delivered",
+      "order_type": "customer_to_retailer",
+      "estimated_delivery_date": "2025-11-24",
+      "estimated_delivery_days": 1,
+      "delivery_breakdown": {
+        "products": [
+          {
+            "product_id": "8bbeb3f3-6ac4-4fc4-abbe-8d620a8b834a",
+            "product_name": "Sony Speakers",
+            "distance_km": 4.0,
+            "base_delivery_days": 1,
+            "wholesaler_delay_days": 0,
+            "total_delivery_days": 1
+          }
+        ],
+        "has_wholesaler_delay": false,
+        "total_days": 1
+      },
+      "retailer_assignment": {
+        "retailer_id": "00a5fb4d-79f4-429a-9a32-ebe006a4d698",
+        "assignment_method": "single_retailer",
+        "products": [
+          {
+            "product_id": "8bbeb3f3-6ac4-4fc4-abbe-8d620a8b834a",
+            "quantity": 1,
+            "distance": 3.9986931061478588
+          }
+        ]
+      },
+      "wholesaler_order_id": null,
+      "needs_wholesaler_order": false,
+      "order_id": "8bb95493-c3e8-4fda-b9fe-c70a67536093",
+      "created_at": "2025-11-23T22:39:41.944499",
+      "status_updated_at": "2025-11-23T23:28:51.835917",
+      "delivery_date": "2025-11-23 23:28:55"
+    },
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "seller_id": "abf521f0-8e51-487e-83e5-9456b399fab6",
+      "items": [
+        {
+          "product_id": "10a71987-cd44-44d7-9357-a33f77e984c6",
+          "quantity": 1,
+          "price": 15000.0
+        }
+      ],
+      "total_amount": 15000.0,
+      "payment_method": "offline",
+      "payment_status": "pending",
+      "status": "pending",
+      "order_type": "customer_to_retailer",
+      "estimated_delivery_date": "2025-11-28",
+      "estimated_delivery_days": 5,
+      "delivery_breakdown": {
+        "products": [
+          {
+            "product_id": "10a71987-cd44-44d7-9357-a33f77e984c6",
+            "product_name": "4k UHD Monitor",
+            "distance_km": null,
+            "base_delivery_days": 5,
+            "wholesaler_delay_days": 0,
+            "total_delivery_days": 5
+          }
+        ],
+        "has_wholesaler_delay": false,
+        "total_days": 5
+      },
+      "retailer_assignment": {
+        "retailer_id": "abf521f0-8e51-487e-83e5-9456b399fab6",
+        "assignment_method": "single_retailer",
+        "products": [
+          {
+            "product_id": "10a71987-cd44-44d7-9357-a33f77e984c6",
+            "quantity": 1,
+            "distance": 0.0
+          }
+        ]
+      },
+      "wholesaler_order_id": null,
+      "needs_wholesaler_order": false,
+      "order_id": "49020fd5-8dd3-43ee-966c-48bfaf01abee",
+      "created_at": "2025-11-23T22:40:07.058048"
+    },
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "seller_id": "00a5fb4d-79f4-429a-9a32-ebe006a4d698",
+      "items": [
+        {
+          "product_id": "8bbeb3f3-6ac4-4fc4-abbe-8d620a8b834a",
+          "quantity": 1,
+          "price": 10000.0
+        }
+      ],
+      "total_amount": 10000.0,
+      "payment_method": "offline",
+      "payment_status": "pending",
+      "status": "delivered",
+      "order_type": "customer_to_retailer",
+      "estimated_delivery_date": "2025-11-24",
+      "estimated_delivery_days": 1,
+      "delivery_breakdown": {
+        "products": [
+          {
+            "product_id": "8bbeb3f3-6ac4-4fc4-abbe-8d620a8b834a",
+            "product_name": "Sony Speakers",
+            "distance_km": 4.0,
+            "base_delivery_days": 1,
+            "wholesaler_delay_days": 0,
+            "total_delivery_days": 1
+          }
+        ],
+        "has_wholesaler_delay": false,
+        "total_days": 1
+      },
+      "retailer_assignment": {
+        "retailer_id": "00a5fb4d-79f4-429a-9a32-ebe006a4d698",
+        "assignment_method": "single_retailer",
+        "products": [
+          {
+            "product_id": "8bbeb3f3-6ac4-4fc4-abbe-8d620a8b834a",
+            "quantity": 1,
+            "distance": 3.9986931061478588
+          }
+        ]
+      },
+      "wholesaler_order_id": null,
+      "needs_wholesaler_order": false,
+      "order_id": "9682765f-a533-4480-a4f7-56170529cf0e",
+      "created_at": "2025-11-23T22:52:19.523024",
+      "status_updated_at": "2025-11-23T23:28:15.766875",
+      "delivery_date": "2025-11-23 23:28:19"
+    },
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "seller_id": "abf521f0-8e51-487e-83e5-9456b399fab6",
+      "items": [
+        {
+          "product_id": "e0a99ae3-80c1-44d7-b350-07be08e155f7",
+          "quantity": 1,
+          "price": 1500.0
+        }
+      ],
+      "total_amount": 1500.0,
+      "payment_method": "offline",
+      "payment_status": "pending",
+      "status": "delivered",
+      "order_type": "customer_to_retailer",
+      "estimated_delivery_date": "2025-11-30",
+      "estimated_delivery_days": 7,
+      "delivery_breakdown": {
+        "products": [
+          {
+            "product_id": "e0a99ae3-80c1-44d7-b350-07be08e155f7",
+            "product_name": "Jacket",
+            "distance_km": null,
+            "base_delivery_days": 5,
+            "wholesaler_delay_days": 2,
+            "total_delivery_days": 7
+          }
+        ],
+        "has_wholesaler_delay": true,
+        "total_days": 7
+      },
+      "retailer_assignment": {},
+      "wholesaler_order_id": "dd8538d7-c596-4a55-ab8c-598c98480041",
+      "needs_wholesaler_order": true,
+      "order_id": "f0946fea-be75-4b7f-b06f-49d42806e6cd",
+      "created_at": "2025-11-23T22:53:34.214559",
+      "status_updated_at": "2025-11-23T22:57:33.679150",
+      "delivery_date": "2025-11-23 22:57:37"
+    },
+    {
+      "order_id": "dd8538d7-c596-4a55-ab8c-598c98480041",
+      "customer_id": "abf521f0-8e51-487e-83e5-9456b399fab6",
+      "seller_id": "4b79b001-081d-444e-99ea-1dca5d580c09",
+      "order_type": "retailer_to_wholesaler",
+      "items": [
+        {
+          "product_id": "e0a99ae3-80c1-44d7-b350-07be08e155f7",
+          "quantity": 1,
+          "price": 1500.0
+        }
+      ],
+      "total_amount": 1500.0,
+      "payment_method": "offline",
+      "payment_status": "pending",
+      "status": "delivered",
+      "is_high_priority": true,
+      "linked_customer_order_id": "f0946fea-be75-4b7f-b06f-49d42806e6cd",
+      "priority": "high",
+      "created_at": "2025-11-23T22:54:58.946242",
+      "status_updated_at": "2025-11-23T22:56:15.015032",
+      "delivery_date": "2025-11-23 22:56:18"
+    },
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "seller_id": "abf521f0-8e51-487e-83e5-9456b399fab6",
+      "items": [
+        {
+          "product_id": "2db345f4-aa73-414d-a83a-d5c789d36257",
+          "quantity": 1,
+          "price": 2999.0
+        }
+      ],
+      "total_amount": 2999.0,
+      "payment_method": "online",
+      "payment_status": "completed",
+      "status": "confirmed",
+      "order_type": "customer_to_retailer",
+      "estimated_delivery_date": "2025-11-28",
+      "estimated_delivery_days": 5,
+      "delivery_breakdown": {
+        "products": [
+          {
+            "product_id": "2db345f4-aa73-414d-a83a-d5c789d36257",
+            "product_name": "Wholesale T-Shirt Pack",
+            "distance_km": null,
+            "base_delivery_days": 5,
+            "wholesaler_delay_days": 0,
+            "total_delivery_days": 5
+          }
+        ],
+        "has_wholesaler_delay": false,
+        "total_days": 5
+      },
+      "retailer_assignment": {
+        "retailer_id": "abf521f0-8e51-487e-83e5-9456b399fab6",
+        "assignment_method": "single_retailer",
+        "products": [
+          {
+            "product_id": "2db345f4-aa73-414d-a83a-d5c789d36257",
+            "quantity": 1,
+            "distance": 0.0
+          }
+        ]
+      },
+      "wholesaler_order_id": null,
+      "needs_wholesaler_order": false,
+      "order_id": "686cb699-6af1-4715-8c8a-24f94b49274c",
+      "created_at": "2025-11-23T23:11:25.505763",
+      "transaction_id": "TXN375689357",
+      "payment_date": "2025-11-23 23:12:00",
+      "status_updated_at": "2025-11-23T23:12:00.428327"
+    },
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "seller_id": "2aa66414-0c8c-4640-bfa7-cf7b13019022",
+      "items": [
+        {
+          "product_id": "f0fb611f-936f-47b5-9810-aff114b24ad5",
+          "quantity": 1,
+          "price": 400.0
+        }
+      ],
+      "total_amount": 400.0,
+      "payment_method": "offline",
+      "payment_status": "pending",
+      "status": "delivered",
+      "order_type": "customer_to_retailer",
+      "estimated_delivery_date": "2025-11-28",
+      "estimated_delivery_days": 5,
+      "delivery_breakdown": {
+        "products": [
+          {
+            "product_id": "f0fb611f-936f-47b5-9810-aff114b24ad5",
+            "product_name": "Playing cards",
+            "distance_km": null,
+            "base_delivery_days": 5,
+            "wholesaler_delay_days": 0,
+            "total_delivery_days": 5
+          }
+        ],
+        "has_wholesaler_delay": false,
+        "total_days": 5
+      },
+      "retailer_assignment": {
+        "retailer_id": "2aa66414-0c8c-4640-bfa7-cf7b13019022",
+        "assignment_method": "single_retailer",
+        "products": [
+          {
+            "product_id": "f0fb611f-936f-47b5-9810-aff114b24ad5",
+            "quantity": 1,
+            "distance": 0
+          }
+        ]
+      },
+      "wholesaler_order_id": null,
+      "needs_wholesaler_order": false,
+      "order_id": "4116e9ab-9f59-48cd-b72a-5bf51a61f98f",
+      "created_at": "2025-11-23T23:16:26.956385",
+      "status_updated_at": "2025-11-23T23:29:38.032909",
+      "delivery_date": "2025-11-23 23:29:41"
+    },
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "seller_id": "abf521f0-8e51-487e-83e5-9456b399fab6",
+      "items": [
+        {
+          "product_id": "2db345f4-aa73-414d-a83a-d5c789d36257",
+          "quantity": 1,
+          "price": 2999.0
+        }
+      ],
+      "total_amount": 2999.0,
+      "payment_method": "online",
+      "payment_status": "completed",
+      "status": "delivered",
+      "order_type": "customer_to_retailer",
+      "estimated_delivery_date": "2025-11-28",
+      "estimated_delivery_days": 5,
+      "delivery_breakdown": {
+        "products": [
+          {
+            "product_id": "2db345f4-aa73-414d-a83a-d5c789d36257",
+            "product_name": "Wholesale T-Shirt Pack",
+            "distance_km": null,
+            "base_delivery_days": 5,
+            "wholesaler_delay_days": 0,
+            "total_delivery_days": 5
+          }
+        ],
+        "has_wholesaler_delay": false,
+        "total_days": 5
+      },
+      "retailer_assignment": {
+        "retailer_id": "abf521f0-8e51-487e-83e5-9456b399fab6",
+        "assignment_method": "single_retailer",
+        "products": [
+          {
+            "product_id": "2db345f4-aa73-414d-a83a-d5c789d36257",
+            "quantity": 1,
+            "distance": 0.0
+          }
+        ]
+      },
+      "wholesaler_order_id": null,
+      "needs_wholesaler_order": false,
+      "order_id": "29c04b7e-fd46-4503-8a38-8eb278d42992",
+      "created_at": "2025-11-23T23:16:59.973358",
+      "transaction_id": "TXN133381800",
+      "payment_date": "2025-11-23 23:17:51",
+      "status_updated_at": "2025-11-23T23:19:39.382437",
+      "delivery_date": "2025-11-23 23:19:43"
+    },
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "seller_id": "00a5fb4d-79f4-429a-9a32-ebe006a4d698",
+      "items": [
+        {
+          "product_id": "1739d88c-2dc7-41ed-9452-652c5a6ddf0f",
+          "quantity": 1,
+          "price": 149.0
+        }
+      ],
+      "total_amount": 149.0,
+      "payment_method": "offline",
+      "payment_status": "pending",
+      "status": "delivered",
+      "order_type": "customer_to_retailer",
+      "estimated_delivery_date": "2025-11-24",
+      "estimated_delivery_days": 1,
+      "delivery_breakdown": {
+        "products": [
+          {
+            "product_id": "1739d88c-2dc7-41ed-9452-652c5a6ddf0f",
+            "product_name": "Denver Deo",
+            "distance_km": 4.0,
+            "base_delivery_days": 1,
+            "wholesaler_delay_days": 0,
+            "total_delivery_days": 1
+          }
+        ],
+        "has_wholesaler_delay": false,
+        "total_days": 1
+      },
+      "retailer_assignment": {
+        "retailer_id": "00a5fb4d-79f4-429a-9a32-ebe006a4d698",
+        "assignment_method": "single_retailer",
+        "products": [
+          {
+            "product_id": "1739d88c-2dc7-41ed-9452-652c5a6ddf0f",
+            "quantity": 1,
+            "distance": 3.9986931061478588
+          }
+        ]
+      },
+      "wholesaler_order_id": null,
+      "needs_wholesaler_order": false,
+      "order_id": "8388493d-3310-4ebb-9e15-06007ca1f3ee",
+      "created_at": "2025-11-23T23:25:43.640290",
+      "status_updated_at": "2025-11-23T23:28:31.731363",
+      "delivery_date": "2025-11-23 23:28:35"
+    },
+    {
+      "order_id": "10ddb488-b95e-4fe1-8106-05c183ee7582",
+      "customer_id": "2aa66414-0c8c-4640-bfa7-cf7b13019022",
+      "seller_id": "4b79b001-081d-444e-99ea-1dca5d580c09",
+      "order_type": "retailer_to_wholesaler",
+      "items": [
+        {
+          "product_id": "6d066fb4-f927-4723-bfb4-36a77594d24b",
+          "quantity": 6,
+          "price": 20.0
+        }
+      ],
+      "total_amount": 120.0,
+      "payment_method": "offline",
+      "payment_status": "pending",
+      "status": "delivered",
+      "is_high_priority": false,
+      "linked_customer_order_id": null,
+      "priority": "normal",
+      "created_at": "2025-11-23T23:49:51.114818",
+      "status_updated_at": "2025-11-23T23:53:39.513997",
+      "delivery_date": "2025-11-23 23:53:42"
+    }
+  ]
+}

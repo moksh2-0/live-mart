@@ -1,0 +1,44 @@
+{
+  "feedbacks": [
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "product_id": "0838de02-0d4c-42d1-a93b-36339121c374",
+      "rating": 4,
+      "review_text": "Gajab",
+      "feedback_type": "review",
+      "order_id": "",
+      "feedback_id": "3902bf92-527f-4825-a6dd-677a437b80d1",
+      "created_at": "2025-11-22T00:08:35.955937"
+    },
+    {
+      "customer_id": "3dae2e1c-1320-49d3-8640-b9b66e668c27",
+      "product_id": "55f6ffe6-797b-4ba2-b289-9be9b68950d6",
+      "rating": 4,
+      "review_text": "good",
+      "feedback_type": "review",
+      "order_id": "552396b6-2965-45ce-bc6b-a3465632c2b7",
+      "feedback_id": "43b0bf37-0d4e-425f-8173-9ca45c711795",
+      "created_at": "2025-11-23T19:50:02.740198"
+    },
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "product_id": "8bbeb3f3-6ac4-4fc4-abbe-8d620a8b834a",
+      "rating": 3,
+      "review_text": "bad",
+      "feedback_type": "review",
+      "order_id": "8bb95493-c3e8-4fda-b9fe-c70a67536093",
+      "feedback_id": "6a9ae57c-fdd8-47ed-aec7-2c4d77c84430",
+      "created_at": "2025-11-23T23:30:49.160125"
+    },
+    {
+      "customer_id": "635287fd-3d86-4e12-8caa-fb645212b810",
+      "product_id": "8bbeb3f3-6ac4-4fc4-abbe-8d620a8b834a",
+      "rating": 4,
+      "review_text": "good",
+      "feedback_type": "review",
+      "order_id": "9682765f-a533-4480-a4f7-56170529cf0e",
+      "feedback_id": "f72fef02-9c55-487e-9dfd-23c77c93abef",
+      "created_at": "2025-11-23T23:37:34.380627"
+    }
+  ]
+}
