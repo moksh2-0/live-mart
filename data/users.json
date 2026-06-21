@@ -1,18 +1,18 @@
 {
   "users": [
     {
-      "name": "m",
-      "email": "ahuja@gmail.com",
-      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "name": "Demo Customer 1",
+      "email": "demo.customer1@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "customer",
       "location": "fahsdj, sfdkjh",
       "user_id": "e446b625-1bd0-4c4c-8022-6465a929c446",
       "created_at": "2025-11-20T00:48:16.835803"
     },
     {
-      "name": "vsd",
-      "email": "m@gmail.com",
-      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "name": "Demo Retailer 1",
+      "email": "demo.retailer1@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "retailer",
       "location": "Thumkunta, Telangana, India",
       "user_id": "abf521f0-8e51-487e-83e5-9456b399fab6",
@@ -23,9 +23,9 @@
       "formatted_address": "Thumukunta, Secunderabad, Telangana 500078, India"
     },
     {
-      "name": "pranay",
-      "email": "pranay@gmail.com",
-      "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "name": "Demo Wholesaler 1",
+      "email": "demo.wholesaler1@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "wholesaler",
       "location": "Kathmandu, Nepal",
       "user_id": "c23d89bf-fa4e-46b4-8343-4818f3de9206",
@@ -36,27 +36,27 @@
       "updated_at": "2025-11-22T18:31:15.980094"
     },
     {
-      "name": "hdg",
-      "email": "gdf@fs.com",
-      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "name": "Demo Customer 2",
+      "email": "demo.customer2@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "customer",
       "location": "fsd",
       "user_id": "6f11b505-8702-4d95-b7d8-850099171417",
       "created_at": "2025-11-20T00:57:00.476266"
     },
     {
-      "name": "fsaf",
-      "email": "fsa@gfs.com",
-      "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "name": "Demo Retailer 2",
+      "email": "demo.retailer2@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "retailer",
       "location": "fsa",
       "user_id": "c11bb3a6-f28e-47e5-8445-f66dc8056c87",
       "created_at": "2025-11-20T00:58:17.905825"
     },
     {
-      "name": "pranay",
-      "email": "p@gmail.com",
-      "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "name": "Demo Customer 3",
+      "email": "demo.customer3@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "customer",
       "location": "Jubilee Hills, Telangana, India",
       "user_id": "3dae2e1c-1320-49d3-8640-b9b66e668c27",
@@ -67,9 +67,9 @@
       "formatted_address": "Jubilee Hills, Hyderabad, Telangana, India"
     },
     {
-      "name": "Moksh",
-      "email": "moksh@gmail.com",
-      "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "name": "Demo Retailer 3",
+      "email": "demo.retailer3@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "retailer",
       "location": "Muzaffarnagar, Uttar Pradesh, India",
       "user_id": "84b09628-cc34-4189-a353-f07089e92953",
@@ -80,9 +80,9 @@
       "formatted_address": "Muzaffarnagar, Uttar Pradesh, India"
     },
     {
-      "name": "moksh ahuja",
-      "email": "ahujamoksh20@gmail.com",
-      "password": "b78e8868ec246d9291268c8da28d0dc5f26380ace6f6cbc768693ad3310c0beb",
+      "name": "Demo Customer 4",
+      "email": "demo.customer4@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "customer",
       "location": "Unknown",
       "oauth_provider": "google",
@@ -91,9 +91,9 @@
       "created_at": "2025-11-21T23:16:34.614498"
     },
     {
-      "name": "Aarya Tripathi",
-      "email": "aaryacool4all@gmail.com",
-      "password": "e9b416f88a9eb8b33e48056892d61570ca9c78bbbb7c79570ae3be20711b6ab0",
+      "name": "Demo Customer 5",
+      "email": "demo.customer5@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "customer",
       "location": "Thumkunta, Telangana, India",
       "oauth_provider": "google",
@@ -106,9 +106,9 @@
       "formatted_address": "Thumukunta, Secunderabad, Telangana 500078, India"
     },
     {
-      "name": "Aarya Tripathi",
-      "email": "aaryatripathi2961@gmail.com",
-      "password": "2ca69be6d64939d756f33692ffd8d05bbdb7e7feaa13d8dcb145c59822f1f9b0",
+      "name": "Demo Retailer 4",
+      "email": "demo.retailer4@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "retailer",
       "location": "Unknown",
       "oauth_provider": "google",
@@ -117,9 +117,9 @@
       "created_at": "2025-11-21T23:59:22.650859"
     },
     {
-      "name": "Pranay Garg W",
-      "email": "pranay.garg.in@gmail.com",
-      "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "name": "Demo Wholesaler 2",
+      "email": "demo.wholesaler2@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "wholesaler",
       "location": "Shamirpet, Telangana, India",
       "user_id": "4b79b001-081d-444e-99ea-1dca5d580c09",
@@ -130,9 +130,9 @@
       "formatted_address": "Shamirpet, Secunderabad, Telangana, India"
     },
     {
-      "name": "Mubeen",
-      "email": "mmubeen5422@gmail.com",
-      "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+      "name": "Demo Wholesaler 3",
+      "email": "demo.wholesaler3@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "wholesaler",
       "location": "Rajiv Gandhi International Airport, Telangana, India",
       "user_id": "729ebbff-3cd9-4588-88ee-ec471862ce81",
@@ -143,9 +143,9 @@
       "updated_at": "2025-11-22T18:22:45.807227"
     },
     {
-      "name": "sarvesh vaswani",
-      "email": "f20232006@hyderabad.bits-pilani.ac.in",
-      "password": "1609278cbd3f94fbc2fab2cf23cb1588fbda5c368a2046a03f02f92d39df202e",
+      "name": "Demo Wholesaler 4",
+      "email": "demo.wholesaler4@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "wholesaler",
       "location": "Pune, Maharashtra, India",
       "user_id": "1ee345ad-cd23-40ad-bced-f3e9091df362",
@@ -156,9 +156,9 @@
       "updated_at": "2025-11-22T19:08:45.978586"
     },
     {
-      "name": "Tirth Kamdar",
-      "email": "tirth120805@gmail.com",
-      "password": "517c36a3891ec89ab5f1d51781f08d7c45f248b478f6aa2847a0a8560fef05e7",
+      "name": "Demo Wholesaler 5",
+      "email": "demo.wholesaler5@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "wholesaler",
       "location": "Hakimpet, Hyderabad, Telangana, India",
       "oauth_provider": "google",
@@ -171,9 +171,9 @@
       "formatted_address": "Hakimpet, Hyderabad, Telangana, India"
     },
     {
-      "name": "Poonam",
-      "email": "poonamgarg185@gmail.com",
-      "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "name": "Demo Retailer 5",
+      "email": "demo.retailer5@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "retailer",
       "location": "Shamirpet, Hyderabad, Telangana, India",
       "user_id": "00a5fb4d-79f4-429a-9a32-ebe006a4d698",
@@ -184,9 +184,9 @@
       "updated_at": "2025-11-23T21:50:24.693647"
     },
     {
-      "name": "Dhruv",
-      "email": "dhruvvrs@gmail.com",
-      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "name": "Demo Customer 6",
+      "email": "demo.customer6@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "customer",
       "location": "Hyderabad, Telangana, India",
       "user_id": "1549b666-a994-4824-b134-60360236269b",
@@ -197,9 +197,9 @@
       "updated_at": "2025-11-23T22:16:38.239621"
     },
     {
-      "name": "moksh ahuja",
-      "email": "ahujamoksh05@gmail.com",
-      "password": "b926e4f7ded4fcd8c9ff354fceae4d1eb84eddbaa7a0f02240eb9bae7d6e1c99",
+      "name": "Demo Retailer 6",
+      "email": "demo.retailer6@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "retailer",
       "location": "Unknown",
       "oauth_provider": "google",
@@ -208,9 +208,9 @@
       "created_at": "2025-11-23T22:23:53.454007"
     },
     {
-      "name": "TIRTH KAMDAR",
-      "email": "f20230654@hyderabad.bits-pilani.ac.in",
-      "password": "c4f214594aed3f8c3a4661f35fe0ba2792793610cf6b377aa46455a8c1e08146",
+      "name": "Demo Retailer 7",
+      "email": "demo.retailer7@example.com",
+      "password": "2ac4757802ddfa9540f285b04d7ba282b55f206b9a4700c11010ebc410cdb4ab",
       "role": "retailer",
       "location": "Unknown",
       "oauth_provider": "google",
