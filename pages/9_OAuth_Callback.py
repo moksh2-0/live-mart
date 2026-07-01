@@ -26,9 +26,16 @@ code = query_params.get('code')
 state = query_params.get('state')
 error = query_params.get('error')
 
+expected_state = st.session_state.get('oauth_state')
+state_mismatch = bool(code) and (not state or not expected_state or state != expected_state)
+
 if error:
     st.error(f"OAuth error: {error}")
     if st.button("Go to Login"):
+        st.switch_page("pages/1_Registration.py")
+elif state_mismatch:
+    st.error("This logic account could not be verified (state mismatch). Please try logging in again.")
+    if st.button("Go to login"):
         st.switch_page("pages/1_Registration.py")
 elif code:
     # Check if we already processed this code and are just waiting for role selection
@@ -58,6 +65,8 @@ elif code:
                     del st.session_state.oauth_code_processed
                 if "oauth_access_token" in st.session_state:
                     del st.session_state.oauth_access_token
+                if "oauth_state" in  st.session_state:
+                    del st.session_state.oauth_state
                 
                 st.success(f"✅ {msg}")
                 st.balloons()
@@ -70,6 +79,8 @@ elif code:
         # Process the OAuth code for the first time (Google only)
         success, message, oauth_data, access_token = handle_google_oauth(code)
         if success:
+            if"oauth_state" in st.session_state:
+                del st.session_state.oauth_state
             st.success(f"✅ {message}")
             st.balloons()
             st.info("Redirecting to dashboard...")
